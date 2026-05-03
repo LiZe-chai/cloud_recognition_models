@@ -72,17 +72,24 @@ A lightweight encoder–decoder segmentation model based on CloudSegNet, designe
 This project utilizes publicly available datasets:
 
 - **CCSN Dataset**  
-  Zhang et al., 2018  
+  (Zhang et al., 2018)  
   https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CADDPD  
 
 - **SWIMSEG / SWINSEG Dataset**
-  Dev et al., 2017
+  (Dev et al., 2017)
   https://malea.winkler.site/swinseg.html  
 
 - **TCDD Dataset**
-  Zhang et al., 2022
-  https://github.com/shuangliutjnu/TJNU-Cloud-Detection-Database  
+  (Zhang et al., 2022)
+  https://github.com/shuangliutjnu/TJNU-Cloud-Detection-Database
 
 > ⚠️ Note: Datasets are included for research purposes only. All rights belong to the original authors.
 
+## References
+  Dev, S., Nautiyal, A., Lee, Y. H., & Winkler, S. (2019). CloudSegNet: A Deep Network for Nychthemeron Cloud Image Segmentation. IEEE Geoscience and Remote Sensing Letters, 16(12), 1814–1818. https://doi.org/10.1109/LGRS.2019.2912140
 
+  Dev, S., Lee, Y. H., & Winkler, S. (2017). Color-Based Segmentation of Sky/Cloud Images from Ground-Based Cameras. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 10(1), 231–242. https://doi.org/10.1109/JSTARS.2016.2558474
+
+  Zhang, Z., Yang, S., Liu, S., Xiao, B., & Cao, X. (2022). Ground-Based Cloud Detection Using Multiscale Attention Convolutional Neural Network. IEEE Geoscience and Remote Sensing Letters, 19. https://doi.org/10.1109/LGRS.2021.3106337
+
+  Guzel, M., Kalkan, M., Bostanci, E., Acici, K., & Asuroglu, T. (2024). Cloud type classification using deep learning with cloud images. PeerJ. Computer Science, 10, e1779. https://doi.org/10.7717/peerj-cs.1779
